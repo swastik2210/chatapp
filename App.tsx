@@ -10,7 +10,7 @@ import {
   StyleSheet,
 } from 'react-native';
 function App(): React.JSX.Element {
-  
+  //hello
   const Stack = createStackNavigator();
 
   return (
